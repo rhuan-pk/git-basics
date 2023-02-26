@@ -60,11 +60,11 @@ git stash pop stash@'{1}'; git stash pop stash@'{0}'; git add ./; git commit -m 
 
 Exercício **9**:
 ```bash
-# nothing to do.
+# nothing to report.
 ```
 Exercício **10**:
 ```bash
-# nothing to do.
+# nothing to report.
 ```
 
 Exercício **11**:
@@ -79,7 +79,7 @@ git push -u origin main
 
 Exercício **13**:
 ```bash
-# nothing to do.
+# nothing to report.
 ```
 
 Exercício **14**, **15**:
@@ -94,7 +94,7 @@ touch ./new-file.txt; git add ./; git commit -m 'new file'; git push origin `git
 
 Exercício **17**:
 ```bash
-# nothing to do.
+# nothing to report.
 ```
 
 Exercício **18**:
